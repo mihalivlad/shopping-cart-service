@@ -1,0 +1,16 @@
+{
+    "username": "Ion2",
+    "password": "1234",
+    "deliveryAddress": {"country":"Ro",
+        "county":"Cj",
+        "city":"Cj",
+        "street":"Str Paris",
+        "nr":13,
+        "postalCode":"123456" },
+    "billingAddress":  {"country":"Ro",
+        "county":"Cj",
+        "city":"Cj",
+        "street":"Str Paris",
+        "nr":13,
+        "postalCode":"123456" }
+}

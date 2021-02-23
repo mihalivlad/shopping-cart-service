@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: shopping-service
+  labels:
+    name: shopping-service
+    app: shopping-cart
+spec:
+  ports:
+    - port: 80
+      targetPort: 8082
+  selector:
+    name: shopping-pod
+    app: shopping-cart

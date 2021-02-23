@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "id": 1
+    }
+  ],
+  "id": 100,
+  "description": "string",
+  "name": "string",
+  "price": 0,
+  "upc": "ceva2"
+}
